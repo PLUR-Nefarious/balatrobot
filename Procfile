@@ -1,0 +1,1 @@
+worker: python balatrobot.py
